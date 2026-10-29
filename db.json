@@ -1,0 +1,44 @@
+{
+  "courses": [
+    {
+      "id": "1",
+      "courseName": "Full Stack Web Development",
+      "courseCode": "FSWD-101",
+      "instructor": "John Doe",
+      "category": "Web Development",
+      "duration": "6 Months",
+      "fee": 25000,
+      "description": "Covers HTML, CSS, JavaScript, React.js, Node.js, Express, and MongoDB with practical projects."
+    },
+    {
+      "id": "2",
+      "courseName": "Python for Data Science",
+      "courseCode": "PYDS-202",
+      "instructor": "Jane Smith",
+      "category": "Data Science",
+      "duration": "4 Months",
+      "fee": 22000,
+      "description": "Comprehensive Python training including NumPy, Pandas, Matplotlib, Seaborn, and introductory Machine Learning."
+    },
+    {
+      "id": "3",
+      "courseName": "UI & UX Design Masterclass",
+      "courseCode": "UIUX-303",
+      "instructor": "Alex Johnson",
+      "category": "Design",
+      "duration": "3 Months",
+      "fee": 18000,
+      "description": "Wireframing, prototyping, user research, design systems, and Figma interface design."
+    },
+    {
+      "id": "4",
+      "courseName": "Cloud & DevOps Engineering",
+      "courseCode": "CLD-404",
+      "instructor": "Robert Miller",
+      "category": "Cloud Computing",
+      "duration": "5 Months",
+      "fee": 28000,
+      "description": "Hands-on training with AWS, Docker, Kubernetes, Linux command line, and CI/CD automation pipelines."
+    }
+  ]
+}

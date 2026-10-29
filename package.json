@@ -1,0 +1,17 @@
+{
+  "name": "coursem-be",
+  "version": "1.0.0",
+  "description": "Mock REST API backend using JSON Server for Course Management System",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "server": "json-server --watch db.json --port 3000"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "json-server": "^0.17.4"
+  }
+}
